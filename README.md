@@ -11,36 +11,24 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Adobe Premiere Pro logo" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop logo" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator logo" />
 </div>
+
 
 ###
 
